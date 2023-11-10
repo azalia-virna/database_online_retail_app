@@ -96,5 +96,5 @@ insert into kategori_barang (pembeli_id, barang_id) values
 (7, 1), (7, 3),
 (8, 6),
 (9, 6),(9, 9),
-(10, 7),;
+(10, 7);
 select * from kategori_barang;
