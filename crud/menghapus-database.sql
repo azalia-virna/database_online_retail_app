@@ -1,0 +1,1 @@
+DROP DATABASE jajan_yuk;
